@@ -1,9 +1,9 @@
 ## Prazer Edilson Torres
 - ⚡ Aspirante em Backend 
 - <img  width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> TypeScript
-- <img  width="20px" src="https://icons8.com.br/icon/Fycm8TUhWmFU/c-afiado-logotipo" /> .Net
+- <img  width="20px" src="https://github.com/edilsontorres/edilsontorres/assets/108238881/6a7b21c8-ec27-4212-b40f-aaf02a451448" /> .Net
 
-![image](https://github.com/edilsontorres/edilsontorres/assets/108238881/6a7b21c8-ec27-4212-b40f-aaf02a451448)
+![image]()
 
 <div>
   <a href="https://github.com/edilsontorres"/>
