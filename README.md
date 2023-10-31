@@ -1,6 +1,6 @@
 ## Prazer Edilson Torres
 - ⚡ Aspirante em Backend 
-- <img  width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Atualmente estudando JavaScript
+- <img  width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> Atualmente estudando TypeScript and .Net
 
 
 <div>
